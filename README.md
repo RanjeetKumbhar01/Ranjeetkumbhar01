@@ -1,8 +1,8 @@
-![](https://komarev.com/ghpvc/?username=ranjeetkumbhar01&color=green)
-
 ## Hello there! 👋
 
 I'm Ranjeet Kumbhar, a passionate and curious Undergrad Student exploring the realms of technology and beyond! 🚀
+
+![](https://komarev.com/ghpvc/?username=ranjeetkumbhar01&color=green)
 
 #### About Me
 
