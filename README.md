@@ -1,4 +1,6 @@
-### Hello there! 👋
+![](https://komarev.com/ghpvc/?username=ranjeetkumbhar01&color=green)
+
+## Hello there! 👋
 
 I'm Ranjeet Kumbhar, a passionate and curious Undergrad Student exploring the realms of technology and beyond! 🚀
 
@@ -19,5 +21,3 @@ I'm Ranjeet Kumbhar, a passionate and curious Undergrad Student exploring the re
 I firmly believe in the power of technology to bring joy and excitement to our lives. Whether it's creating a simple script or building complex machine learning models, every tech endeavor is a thrilling journey!
 
 Let's connect, collaborate, and embark on this exciting tech adventure together! 💻🎉
-
-![](https://komarev.com/ghpvc/?username=ranjeetkumbhar01&color=green)
