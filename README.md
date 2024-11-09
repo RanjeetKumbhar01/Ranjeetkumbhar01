@@ -1,10 +1,13 @@
 ## Hello there! 👋
 
-I'm Ranjeet Kumbhar, a passionate and curious Undergrad Student exploring the realms of technology and beyond! 🚀
+I'm Ranjeet Kumbhar, a passionate and curious undergraduate student exploring the realms of technology and beyond! 🚀
 
 ![](https://komarev.com/ghpvc/?username=ranjeetkumbhar01&color=green)
 
 #### About Me
+
+Discover more about my journey: [RanjeetKumbhar.tech](https://www.ranjeetkumbhar.tech/)
+
 
 - 🔭 I’m currently studying Computer Science and delving into fascinating AI/ML concepts.
 - 🌱 I'm an avid learner, always seeking opportunities to expand my knowledge and skill set.
@@ -14,7 +17,7 @@ I'm Ranjeet Kumbhar, a passionate and curious Undergrad Student exploring the re
 
 #### Get in Touch
 
-- 📫 How to reach me: contact.ranjeetkumbhar@gmail.com
+- 📫 **Email**: contact.ranjeetkumbhar@gmail.com
 
 #### Tech == Fun ⚡
 
