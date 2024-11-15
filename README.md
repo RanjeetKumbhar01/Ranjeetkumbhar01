@@ -1,6 +1,6 @@
 ## Hello there! 👋
 
-I'm Ranjeet Kumbhar, a passionate and curious undergraduate student exploring the realms of technology and beyond! 🚀
+I'm Ranjeet Kumbhar, a passionate and curious Masters student exploring the world of technology and beyond! 🚀
 
 ![](https://komarev.com/ghpvc/?username=ranjeetkumbhar01&color=green)
 
