@@ -1,26 +1,19 @@
-## Hello there! 👋
+<p align="center">
+  <h1>Hi, there 👋</h1>
+</p>
 
-I'm Ranjeet Kumbhar, a passionate and curious Masters student exploring the world of technology and beyond! 🚀
+I'm Ranjeet Kumbhar, a Master's Student in Computer Science from India 🇮🇳
 
-![](https://komarev.com/ghpvc/?username=ranjeetkumbhar01&color=green)
+🌐 **Website:** [**RanjeetKumbhar.me**](https://ranjeetkumbhar.me)
 
-#### About Me
+**About me**
 
-Discover more about my journey: [RanjeetKumbhar.me](https://www.ranjeetkumbhar.me/)
+- 🔭 Graduate student exploring **AI, Robotics, and Autonomous Systems**.
+- 🌱 Passionate about building intelligent systems and scalable robotic applications.
+- 👯 Looking to collaborate on open-source AI/Robotics projects.
 
-
-- 🔭 I’m currently studying Computer Science and delving into fascinating AI/ML concepts.
-- 🌱 I'm an avid learner, always seeking opportunities to expand my knowledge and skill set.
-- 👯 I’m looking to collaborate on AI/ML Projects - Let's work together to create innovative solutions!
-- 💬 Ask me about anything related to programming, data science, or tech trends. I love engaging in discussions!
-- ⚡ Fun Fact: I'm a huge sci-fi enthusiast and enjoy exploring futuristic ideas in both technology and storytelling.
-
-#### Get in Touch
-
-- 📫 **Email**: contact.ranjeetkumbhar@gmail.com
-
-#### Tech == Fun ⚡
-
-I firmly believe in the power of technology to bring joy and excitement to our lives. Whether it's creating a simple script or building complex machine learning models, every tech endeavor is a thrilling journey!
-
-Let's connect, collaborate, and embark on this exciting tech adventure together! 💻🎉
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=ranjeetkumbhar01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/ranjeet-kumbhar/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:contact.ranjeetkumbhar@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white" alt="Email"/></a>
+</p>
