@@ -6,7 +6,7 @@ I'm Ranjeet Kumbhar, a passionate and curious Masters student exploring the worl
 
 #### About Me
 
-Discover more about my journey: [RanjeetKumbhar.tech](https://www.ranjeetkumbhar.tech/)
+Discover more about my journey: [RanjeetKumbhar.me](https://www.ranjeetkumbhar.me/)
 
 
 - 🔭 I’m currently studying Computer Science and delving into fascinating AI/ML concepts.
