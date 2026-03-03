@@ -1,16 +1,6 @@
-<p align="center">
-  <h1>Hi, there 👋</h1>
-</p>
+Hi, I'm Ranjeet Kumbhar, a final-year M.E. student in Computer Science working at the intersection of Artificial Intelligence, Machine Learning, and Robotics. I focus on research-driven problem solving, building structured models and practical prototypes from complex ideas, with the goal of developing intelligent systems that deliver meaningful real-world impact. 
 
-I'm Ranjeet Kumbhar, a Master's Student in Computer Science from India 🇮🇳
-
-🌐 **Website:** [**RanjeetKumbhar.me**](https://ranjeetkumbhar.me)
-
-**About me**
-
-- 🔭 Graduate student exploring **AI, Robotics, and Autonomous Systems**.
-- 🌱 Passionate about building intelligent systems and scalable robotic applications.
-- 👯 Looking to collaborate on open-source AI/Robotics projects.
+Website: https://ranjeetkumbhar.me
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=ranjeetkumbhar01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
